@@ -13,4 +13,6 @@ Some questions that can be answered -
 - What was the number of awards awarded by the US agencies and their branches?
 - Year wise analysis for the US agencies and their branches 
 
+From the analysis, it can be noted that the number of companies with SBIR awards has gradually decreased.
+
 Databases used : PostgreSQL, Neo4j
