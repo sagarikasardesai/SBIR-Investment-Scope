@@ -15,4 +15,4 @@ Some questions that can be answered -
 
 From the analysis, it can be noted that the number of companies with SBIR awards has gradually decreased.
 
-Databases used : PostgreSQL, Neo4j
+Databases used : PostgreSQL, Neo4j, MongoDB
