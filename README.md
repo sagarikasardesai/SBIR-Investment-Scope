@@ -15,16 +15,20 @@ The SBIR program is a highly competitive program that encourages small American 
 - Should commercial companies keep an eye on SBIR companies, based on the investments in SBIR companies?
 
 Relevant Columns in the SBIR Dataset:
+
 <img width="510" alt="Screen Shot 2024-03-13 at 9 35 39 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/3cd5cd9e-e665-46e0-98aa-156698b77c8f">
 
 Relevant Columns in the PatentDB Dataset:
+
 <img width="495" alt="Screen Shot 2024-03-13 at 9 36 50 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/0fe8cbb7-3825-472a-821c-f71035cda2a7">
 
 #### Data Cleaning
 Data cleaning was needed to be done since the data obtained from the source was unclean and not suitable for further processing and analysis. For the patentdb dataset, the information was extracted for US-based patents by using the patentids that began with 'US'. 
+
 <img width="706" alt="Screen Shot 2024-03-13 at 9 41 01 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/51872b33-8222-43af-a3f5-fb86a0bf7a47">
 
 For sbir_award_data dataset, PostgreSQL was used to clean up the data. Firstly updated all the null values of the dataset to ‘NA’. Converted the type of award_amount to int, and replaced ()- in the phone numbers to ‘NA’ as this would give a cleaner format. Also concatenated address1 and address2 as a single address. These were cleaned for ease of graph creation in Neo4j.
+
 <img width="874" alt="Screen Shot 2024-03-13 at 9 40 37 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/c1324516-901d-47a5-ad66-c4c4f84eb79b">
 
 #### Graph Creation
