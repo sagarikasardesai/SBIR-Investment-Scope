@@ -34,8 +34,9 @@ For sbir_award_data dataset, PostgreSQL was used to clean up the data. Firstly u
 #### Graph Creation
 Using the sbir_award_data, graphs using Company, Agency, Branch, Award_Year, and Record_Id have been created in Neo4j. The relations are AWARDED (Branch awarding the
 Company), AWARDED_IN( year in which the company is awarded), and IS_PART_OF(Branch within the Agency). Using the cypher query language,
-● Found the number of awards for each company and the unique branches that are awarding each company.
-● Year-wise analysis of the number of times a branch, or agency are awarding companies.
+- Found the number of awards for each company and the unique branches that are awarding each company.
+- Year-wise analysis of the number of times a branch, or agency are awarding companies.
+  
 <img width="555" alt="Screen Shot 2024-03-13 at 9 43 08 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/7f17e3fd-2f4a-404a-a299-07068f74cc90">
 
 <img width="927" alt="Screen Shot 2024-03-13 at 9 43 31 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/967612aa-28d6-45fc-8515-16f0b225829d">
