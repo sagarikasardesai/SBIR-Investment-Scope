@@ -39,6 +39,8 @@ Company), AWARDED_IN( year in which the company is awarded), and IS_PART_OF(Bran
   
 <img width="555" alt="Screen Shot 2024-03-13 at 9 43 08 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/7f17e3fd-2f4a-404a-a299-07068f74cc90">
 
+<img width="897" alt="Screen Shot 2024-03-13 at 9 49 16 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/08803ba4-fb53-4e95-a970-d0f80e497167">
+
 <img width="927" alt="Screen Shot 2024-03-13 at 9 43 31 AM" src="https://github.com/sagarikasardesai/SBIR-Investment-Scope/assets/21274244/967612aa-28d6-45fc-8515-16f0b225829d">
 
 #### Web Scraping for Recent News
