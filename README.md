@@ -46,7 +46,7 @@ From the results of the previous queries, the data related to SBIR companies tha
 
 ### Insights
 
-● As the years have progressed the SBIR Award Amount has increased. 
-● The two companies who have benefitted the most are Physical Optics Corporation and CREARE LLC.
-● The most used technologies by the companies over the years were Physics and Electricity, so we can invest in the small companies working on them, which can be seen in the SBIR data results.
+- As the years have progressed the SBIR Award Amount has increased. 
+- The two companies that have benefitted the most are Physical Optics Corporation and CREARE LLC.
+- The most used technologies by the companies over the years were Physics and Electricity, so we can invest in the small companies working on them, which can be seen in the SBIR data results.
 
